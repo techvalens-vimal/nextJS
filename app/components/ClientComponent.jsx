@@ -14,6 +14,7 @@ const ClientComponent = () => {
       }}
     >
       <div>THis is a change to test interactive rebase</div>
+      <div>this is 2nd commit to check interactive rebase</div>
       <DynamicComponent />
       <StaticComponent />
     </div>
