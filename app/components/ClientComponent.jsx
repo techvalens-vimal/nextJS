@@ -13,6 +13,7 @@ const ClientComponent = () => {
         justifyContent: "space-evenly",
       }}
     >
+      <div>THis is a change to test interactive rebase</div>
       <DynamicComponent />
       <StaticComponent />
     </div>
